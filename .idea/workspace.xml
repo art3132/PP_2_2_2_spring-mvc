@@ -9,7 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0728a576-dd7a-4ef7-b572-e5318f39a763" name="Changes" comment="" />
+    <list default="true" id="0728a576-dd7a-4ef7-b572-e5318f39a763" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/controller/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/web/service/CarServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +56,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2KuMeG98wdGh4s262zTTQRuQx7G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -182,7 +189,8 @@
       <workItem from="1674844928707" duration="2230000" />
       <workItem from="1674907888552" duration="2068000" />
       <workItem from="1674911959085" duration="4856000" />
-      <workItem from="1674917247343" duration="5170000" />
+      <workItem from="1674917247343" duration="5367000" />
+      <workItem from="1675074020195" duration="119000" />
     </task>
     <servers />
   </component>

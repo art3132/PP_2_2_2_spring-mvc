@@ -12,7 +12,6 @@ public class CarServiceImpl implements CarService {
 
     private final CarDao carDao;
 
-    @Autowired
     public CarServiceImpl(CarDao carDao) {
         this.carDao = carDao;
     }
